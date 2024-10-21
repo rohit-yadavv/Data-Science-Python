@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+.virtualenv/
+
+# For Pipenv (if using Pipenv)
+Pipfile.lock
+
+Lib
+Scripts
